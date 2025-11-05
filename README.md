@@ -4,10 +4,10 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelBilla&theme=tokyo-night&hide_border=true&layout=compact">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelBilla&theme=tokyo-night&hide_border=true&layout=compact&days=55">
   
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelBilla&show_icons=true&theme=tokyonight&hide_border=true&layout=compact">
+    <img align="center" width="40%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=AxelBilla&show_icons=true&theme=tokyonight&hide_border=true&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBilla&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
   </div>
 </p>
