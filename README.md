@@ -7,8 +7,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelBilla&theme=tokyo-night&hide_border=true&layout=compact">
   
   <div align="center">
-    <img align="center" hspace=10 src="https://github-readme-stats.vercel.app/api?username=AxelBilla&show_icons=true&theme=tokyonight&hide_border=true&layout=compact">
-    <img align="center" hspace=40 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBilla&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelBilla&show_icons=true&theme=tokyonight&hide_border=true&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBilla&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
   </div>
 </p>
 <br>
