@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=WELCOME&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=WELCOME&fontSize=68&fontColor=FB9EFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFE0FD"  />
 </div>
 <br>
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 <br>
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=STACK&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=STACK&fontSize=68&fontColor=FB9EFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFE0FD"  />
 </div>
 <br>
 <div align="center">
@@ -45,10 +45,11 @@
 <div align="center">
   
   <a href="https://www.billiard.dev/">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=SOCIALS&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=SOCIALS&fontSize=68&fontColor=FB9EFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFE0FD"  />
   </a>
   
 </div>
+<br>
 <br>
 <div align="center">
   
@@ -60,9 +61,11 @@
   </a>
 </div>
 <br>
+<br>
 <div align="center">
   <a href="https://www.billiard.dev/">
-      <img src="https://img.shields.io/badge/CHECK_ME_OUT-%23FFE0FD?style=for-the-badge" width="25%">
+      <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&section=header&reversal=true&text=CHECK%20ME%20OUT&fontSize=100&fontColor=FB9EFF&fontAlign=50&fontAlignY=68&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFE0FD" width="35%" />
+
   </a>
 </div>
 
