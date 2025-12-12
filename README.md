@@ -41,6 +41,15 @@
 </div>
 <br>
 <br>
+<br>
+<div align="center">
+  
+  <a href="https://www.billiard.dev/">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=true&text=SOCIALS&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  </a>
+  
+</div>
+<br>
 <div align="center">
   
   <a href="https://www.linkedin.com/in/axelbilla/">
@@ -50,3 +59,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="104" height="80">
   </a>
 </div>
+<br>
+<div align="center">
+  <a href="https://www.billiard.dev/">
+      <img src="https://img.shields.io/badge/CHECK_ME_OUT-%23FFE0FD?style=for-the-badge" width="25%">
+  </a>
+</div>
+
